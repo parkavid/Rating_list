@@ -1,0 +1,188 @@
+
+header {
+    background: #fff;
+    padding: 30px 32px;
+    box-shadow: 0 8px 18px rgba(0,0,0,.033);
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    width: 100%;
+    z-index: 100;
+    overflow-x: auto;
+    
+}
+header .container {
+    display: flex;
+    max-width: 960px;
+    margin: 0 auto;
+   
+}
+
+body {
+    
+    font-size: 16px;
+    color: #333;
+    background: #f5f5f5;
+}
+.heading{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: purple;
+    display: inline;
+}
+.search {
+    margin-left: 64px;
+    display: flex;
+    
+}
+.search-input{
+    display: flex;
+    margin-top: 4px;
+}
+.search-input .search-label {
+    height: 36px;
+    border: 1px solid purple;
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    width: 330px;
+    max-width: 330px;
+}
+.search-input .search-iconbutton {
+    border-radius: 0 2px 2px 0;
+    background: purple url(https://res.cloudinary.com/sivadass/image/upload/v1494692031/icons/search.png) 50% no-repeat;
+    width: 96px;
+    height: 36px;
+    text-align: center;
+    color: #fff;
+    border: 0;
+    font-weight: 400;
+    padding: 0 16px;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+}
+.cart-items {
+    display: flex;
+    margin-left: 64px;
+    position: relative;
+    z-index: 99;
+}
+.cart-icon {
+    margin-left: 16px;
+    z-index: 99;
+    position: relative;
+    color: purple;
+    cursor: pointer;
+}
+.cart-property table{
+    color: purple;
+    font-size: 15px;
+}
+.button-login{
+    margin-top: 10px;
+    color: purple;
+    font-weight: bolder;
+    margin-left: 33px;
+    cursor: pointer;
+
+}
+.button-signup{
+    margin-top: 10px;
+ color: purple;
+    font-weight: bolder;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.button-signup:hover{
+    text-decoration: none;
+    color: purple;
+}
+.button-login:hover{
+    text-decoration: none;
+    color: purple;
+}
+.cart-icon:visited{
+    color: purple;
+}
+
+
+
+
+.main{
+    position: relative;
+    top: 132px;
+}
+.leftside-content{
+    border: 1px solid rgba(106, 103, 103, 0.11);
+    padding: 25px;
+    margin-top: 5px;
+    background-color: #fff;
+}
+.image{
+    height: 100%;
+    object-position: center;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+}
+.image-align{
+    text-align: center;
+    width: 320px;
+    height: 500px;
+    background: #fff;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.details-button{
+    text-align: center;
+}
+.details-cartbutton{
+    margin-top: 20px;
+    padding: 7px;
+    height: 40px;
+    color: #fff;
+    background-color: purple;
+    width: 300px;
+    border: none;
+
+}
+
+.right-content{
+    border: 1px solid rgba(106, 103, 103, 0.11);
+    padding: 10px;
+    margin-top: 5px;
+    background: white;
+    width: 100%;
+    height: 100%;
+}
+.right-content-heading{
+    margin-top: 8px;
+
+}
+.details-list{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.col-md-4 {
+    padding-left: 30px;
+}
+.details-list li{
+    margin-top: 22px;
+    color: rgba(147, 144, 144, 0.96);
+}
+.col-md-8{
+    margin-top: 29px;
+}
+.right-product-details{
+    list-style-type: none;
+}
+.right-product-details li{
+    margin-top: 22px;
+}
+
+
+ .product-info table tbody td.feature{
+    width: 40%;
+}

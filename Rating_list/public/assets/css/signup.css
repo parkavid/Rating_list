@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+header {
+    background: #fff;
+    padding: 30px 32px;
+    box-shadow: 0 8px 18px rgba(0,0,0,.033);
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    width: 100%;
+    z-index: 100;
+    overflow-x: auto;
+    
+}
+header .container {
+    display: flex;
+    max-width: 960px;
+    margin: 0 auto;
+   
+}
+
+body {
+    
+    font-size: 16px;
+    color: #333;
+    background: #f5f5f5;
+}
+.heading{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: purple;
+    display: inline;
+}
+.search {
+    margin-left: 64px;
+    display: flex;
+    
+}
+.search-input{
+    display: flex;
+    margin-top: 4px;
+}
+.search-input .search-label {
+    height: 36px;
+    border: 1px solid purple;
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    width: 330px;
+    max-width: 330px;
+}
+.search-input .search-iconbutton {
+    border-radius: 0 2px 2px 0;
+    background: purple url(https://res.cloudinary.com/sivadass/image/upload/v1494692031/icons/search.png) 50% no-repeat;
+    width: 96px;
+    height: 36px;
+    text-align: center;
+    color: #fff;
+    border: 0;
+    font-weight: 400;
+    padding: 0 16px;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+}
+.cart-items {
+    display: flex;
+    margin-left: 64px;
+    position: relative;
+    z-index: 99;
+}
+.cart-icon {
+    margin-left: 16px;
+    z-index: 99;
+    position: relative;
+    color: purple;
+    cursor: pointer;
+}
+.cart-property table{
+    color: purple;
+    font-size: 15px;
+}
+.button-login{
+    margin-top: 10px;
+    color: purple;
+    font-weight: bolder;
+    margin-left: 33px;
+    cursor: pointer;
+
+}
+.button-signup{
+    margin-top: 10px;
+ color: purple;
+    font-weight: bolder;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.button-signup:hover{
+    text-decoration: none;
+    color: purple;
+}
+.button-login:hover{
+    text-decoration: none;
+    color: purple;
+}
+.cart-icon:visited{
+    color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-login{
+	padding: 30px;
+}
+.card-login{
+	margin:auto;
+	height: auto;
+	width: 360px;
+	padding:10px 30px 10px 30px;
+	box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.05), 3px 3px 3px rgba(0, 0, 0, 0);
+    position: relative;
+    top: 150px;
+	
+}
+.signup-heading{
+	font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: purple;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.email-label{
+	color: purple;
+}
+.wrapper {
+  position: relative; 
+  padding-top: 10px;  
+}
+.inputText {
+  padding: 5px;
+    font-size: 19px;
+    width: 100%;
+    height: 34px;
+    border: 1px solid purple;
+    border-radius: 5px;
+}
+.floating-label {
+  color: purple;
+    position: absolute;
+    pointer-events: none;
+    left: 15px;
+    top: 17px;
+    transition: 0.2s ease all;
+}
+input:focus ~ .floating-label,
+input:not(:focus):valid ~ .floating-label {
+  top: -15px;
+}
+.wrapper-password{
+	position: relative; 
+    padding-top: 10px; 
+    margin-top: 5px;
+}
+
+.login-button{
+	font-size: 16px;
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    height: 34px;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}

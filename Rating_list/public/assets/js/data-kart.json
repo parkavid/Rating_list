@@ -1,0 +1,236 @@
+data: [
+
+    {
+        "id": "1",
+        "productName": "mobile",
+        "price": "₹5,999",
+        "InTheBox": "mobile",
+        "price": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+        "modelNumber": "ERA-2V",
+        "size": "5 inch",
+        "brand": "Lenova",
+        "color": "white",
+        "touchScreen": "yes"
+
+    },
+    {
+        "id": "2",
+        "productName": "Air conditioner",
+        "price": "₹23,999",
+        "InTheBox": "1 Indoor Unit 1 Outdoor Unit Remote Control 2 Batteries Connecting Pipes User Manual Warranty Card",
+        "modelNumber": "ERA-2V",
+        "size": "5 inch",
+        "brand": "Carrier",
+        "color": "white",
+        "touchScreen": "yes"
+
+    },
+    {
+        "id": "3",
+        "productName": "Mobile",
+        "price": "₹13,999",
+        "InTheBox": "Handset, Charger, Type C USB Cable,White Earphone",
+        "modelNumber": "XT1663-2V",
+        "size": "5.5 inch",
+        "brand": "Gold",
+        "color": "Black",
+        "touchScreen": "yes"
+
+    },
+    {
+        "id": "4",
+        "productName": "Home theatre",
+        "price": "₹13,999",
+        "InTheBox": "unit box,remote,USB Cable,One Tower Speaker, Manual",
+        "modelNumber": "XT163-2V",
+        "size": "22.5 inch",
+        "brand": "Sony",
+        "color": "Black",
+        "touchScreen": "No"
+
+    },
+    {
+        "id": "5",
+        "productName": "Laptop",
+        "price": "₹43,999",
+        "InTheBox": "MONITOR, Power cable Power Adapter Speaker HDMI cable",
+        "modelNumber": "A A1466-2V",
+        "size": "22.5 inch",
+        "brand": "Dell",
+        "color": "Black",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "6",
+        "productName": "MacBook",
+        "price": "₹1,13,999",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "modelNumber": "MQD32HN/A A1466",
+        "size": "15.5 inch",
+        "brand": "Apple",
+        "color": "silver",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "7",
+        "productName": "MacBook",
+        "price": "₹1,13,999",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "modelNumber": "MQD32HN/A A1466",
+        "size": "15.5 inch",
+        "brand": "Apple",
+        "color": "White",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "8",
+        "productName": "washing machine",
+        "price": "₹1,13,999",
+        "InTheBox": "User Manual Outlet Pipe 1 Washing Machine Inlet Pipe Lint Filter Rat Mesh",
+        "modelNumber": "MQD466",
+        "size": "6 kg",
+        "brand": "Haier",
+        "color": "Silver",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "9",
+        "productName": "Printer",
+        "price": "₹10,999",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "modelNumber": "MQD466",
+        "size": "6 kg",
+        "brand": "Haier",
+        "color": "Silver",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "10",
+        "productName": "Camera",
+        "price": "₹99,999",
+        "InTheBox": "EN-EL14a rechargeable Li-ion battery (with terminal cover), MH-24 battery charger (plug adapter supplied in countries or regions where required; shape depends on country of sale), DK-25 rubber eyecup, BF-1B body cap, AN-DC3 strap",
+        "size": "23.5 x 15.6 mm",
+        "brand": "Nikon",
+        "color": "Black",
+        "touchScreen": "Yes"
+
+    },
+
+    {
+        "id": "11",
+        "productName": "Memory Card",
+        "price": "₹679",
+        "InTheBox": "menory card,Manual",
+        "size": "128 GB",
+        "brand": "SanDisk",
+        "color": "Black",
+        "touchScreen": "No"
+
+    },
+
+    {
+        "id": "12",
+        "productName": "Laptop",
+        "price": "	₹55,999",
+        "InTheBox": "MONITOR, Power cable Power Adapter Speaker HDMI cable",
+        "size": "	13.3 inch",
+        "brand": "Thoshiba",
+        "color": "Black",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "13",
+        "productName": "MacBook",
+        "price": "	₹1,25,349",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "size": "	13.3 inch",
+        "brand": "Apple",
+        "color": "Gold",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "14",
+        "productName": "Power-bank",
+        "price": "	₹11,049",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "size": "3inches",
+        "brand": "Intex",
+        "color": "gray",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "15",
+        "productName": "Rist-Watch",
+        "price": "	₹1,789",
+        "InTheBox": "Laptop, Battery, Power Adaptor, User Guide, Warranty Documents",
+        "size": "4inches",
+        "brand": "samsung",
+        "color": "lightgray",
+        "touchScreen": "No"
+
+    },
+    {
+        "id": "16",
+        "productName": "Air conditioner",
+        "price": "	₹1,22,789",
+        "InTheBox": "1 Indoor Unit 1 Outdoor Unit Remote Control 2 Batteries Connecting Pipes User Manual Warranty Card Power Adaptor, User Guide, Warranty Documents",
+        "size": "70 inches",
+        "brand": "sony",
+        "color": "lightgray",
+        "touchScreen": "No"
+
+    },
+    {
+        "id": "17",
+        "productName": "Mobile",
+        "price": "	₹5,785",
+        "InTheBox": "Handset, Charger, Type C USB Cable,White Earphone, User Manual Warranty Card Power Adaptor, User Guide",
+        "size": "5.1cm",
+        "brand": "sony",
+        "color": "gold",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "18",
+        "productName": "Mobile",
+        "price": "	₹11,458",
+        "InTheBox": "Handset, Lightening Charger, Quick Start Guide, Data Cable, Headphone",
+        "size": "5.5cm",
+        "brand": "redmi",
+        "color": "silver",
+        "touchScreen": "Yes"
+
+    },
+    {
+        "id": "19",
+        "productName": "mouse",
+        "price": "	₹1,458",
+        "InTheBox": "mouse, Data Cable,USB",
+        "size": "15.5cm",
+        "brand": "samsung",
+        "color": "black",
+        "touchScreen": "No"
+
+    },
+    {
+        "id": "19",
+        "productName": "CPU",
+        "price": "	₹12,435",
+        "InTheBox": "CPU unit,data Cable,user Manual",
+        "size": "15.5cm",
+        "brand": "HP",
+        "color": "black",
+        "touchScreen": "No"
+
+    }
+
+]

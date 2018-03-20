@@ -1,0 +1,3 @@
+export const GET_PRODUCTS_SUCCESS = "GET_PRODUCTS_SUCCESS";
+export const SET_DETAILS = "SET_DETAILS";
+
